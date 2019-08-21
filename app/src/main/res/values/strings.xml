@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Stickers Scouts</string>
+    <string name="tray_image_content_description">Sticker Pack Bandeja Imagen</string>
+    <string name="more_info_button">Más informacion sobre el pack sticker</string>
+    <string name="add_to_whatsapp">Agregar a WhatsApp</string>
+    <string name="add_button_content_description">Agregar sticker pack a WhatsApp</string>
+    <plurals name="title_activity_sticker_packs_list">
+        <item quantity="one">Packs Sticker Scouts</item>
+        <item quantity="other">Packs Sticker Scouts</item>
+    </plurals>
+    <string name="title_activity_sticker_pack_details_multiple_pack">Detalle del los Sticker</string>
+    <string name="title_activity_sticker_pack_info">Informacion</string>
+    <string name="view_webpage">Pagina Web</string>
+    <string name="send_email">Enviar email</string>
+    <string name="privacy_policy">Politica de Privacidad</string>
+    <string name="license_agreement">Acuerdo de licencia</string>
+    <string name="info_screen_tray_icon">Icono visible en WhatsApp</string>
+    <string name="details_pack_already_added">Sticker pack agregado a WhatsApp</string>
+    <string name="info_send_email_to_prompt">Enviar correo electrónico con</string>
+    <string name="add_pack_fail_prompt_update_whatsapp">Paquete de sticker no añadido. Si desea agregarlo, asegúrese de actualizar a la última versión de WhatsApp.</string>
+    <string name="add_pack_fail_prompt_update_play_link">Actualizar</string>
+    <string name="cannot_find_play_store">Google Play no esta instalado en su telefono.</string>
+</resources>
