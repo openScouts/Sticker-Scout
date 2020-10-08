@@ -5,13 +5,13 @@ android {
     aaptOptions {
         noCompress "webp"
     }
-    compileSdkVersion 28
+    compileSdkVersion 29
     defaultConfig {
 		applicationId "ar.com.caseroft.stickerscout"
         minSdkVersion 15
-        targetSdkVersion 28
-        versionCode 18
-        versionName "1.8"
+        targetSdkVersion 29
+        versionCode 19
+        versionName "1.9"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         def contentProviderAuthority = applicationId + ".stickercontentprovider"
         // Creates a placeholder property to use in the manifest.
